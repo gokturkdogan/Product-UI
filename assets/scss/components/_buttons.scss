@@ -1,0 +1,22 @@
+.addBtn{
+    background-color: $addbtn;
+    color: $productbg;
+    border: none;
+    font-size: 0.8rem;
+    display: block;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px #1C57EE;
+}
+
+.bottomBtn{
+    background-color: $productbg;
+    border: 1px solid $bottombtnborder;
+    border-radius: 5px;
+    padding: 12px 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: $tagbg;
+}

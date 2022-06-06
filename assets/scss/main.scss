@@ -1,0 +1,13 @@
+@import 'variables/colors';
+@import 'layout/product';
+@import 'components/buttons';
+@import 'components/icons';
+body{
+    background-color: $bg;
+    font-family: 'Mulish', sans-serif;
+    .container{
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+    }
+}
